@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\bin\Debug\Registr_avtorize.exe
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\bin\Debug\Registr_avtorize.exe.config
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\bin\Debug\Registr_avtorize.pdb
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.Form1.resources
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.Properties.Resources.resources
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.Reg.resources
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.exe
+C:\Users\user\Desktop\Регистрация_автоизация\Registr_avtorize\Registr_avtorize\obj\Debug\Registr_avtorize.pdb
